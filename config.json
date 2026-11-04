@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "interactive-dashboard-with-streamlit",
+      "title": "Interactive Dashboard with Streamlit",
+      "description": "Build an interactive Python dashboard with Streamlit to filter and visualize school club participation data.",
+      "path": "assignments/interactive-dashboard-with-streamlit",
+      "dueDate": "2026-11-11",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Dataset",
+          "file": "data.csv",
+          "type": "csv"
+        }
+      ]
     }
   ]
 }
